@@ -1,0 +1,20 @@
+{
+  "transactions": [
+    {
+      "description": "figurinhas da copa",
+      "price": 40,
+      "category": "diversão",
+      "type": "outcome",
+      "createdAt": "2022-10-04T11:05:17.168Z",
+      "id": 1
+    },
+    {
+      "description": "Desenvolvimento de app",
+      "price": 4000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2022-10-04T11:05:40.230Z",
+      "id": 2
+    }
+  ]
+}
